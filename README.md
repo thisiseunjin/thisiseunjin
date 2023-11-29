@@ -62,3 +62,24 @@
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     </div>
 <div>
+
+<h2 align="center">🏃‍♀️ Activities </h2>
+  <br>
+  
+  |Organization|Activity|Position|Achieve|Date|
+  |:---:|:---:|:---:|:---:|:---:|
+  |SSAFY 9기|근카가카(우수상)|Front-end<br/>back-end<br/>Infra, DBA|참여|2023|
+  |SSAFY 9기|내쉬다|Leader,DBA, Back-end|참여|2023|
+  |SSAFY 9기|WEFFY|Leader,<br/>Front-end|참여|2023|
+  |SSAFY 9기|Enjoy Trip(우수상)|Leader, DBA, Back-end|참여|2023|
+  |SSAFY 9기|SAMSUNG SW ACADEMY FOR YOURTH|지역 대표|참여 중|2023|
+  |삼성SDS|삼성SDS 2022 하계 대학생 알고리즘 특강|-|참여|2022|
+  |영남대학교|소통하는 주거환경|Leader, DBA, Back-end|참여|2021|
+  |영남대학교|뭐먹냠 혼자먹냠|Leader, DBA, Back-end|참여|2020|
+
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthisiseunjin&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
+<br>
+</div>
