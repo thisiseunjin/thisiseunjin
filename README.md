@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=THISISEUNJIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가치창출을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THISISEUNJIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가치창출을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62)
 
 <div>
 <span>
@@ -47,6 +47,11 @@
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
     </div>
+    <p><strong>Andriod</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    </div>
     <p><strong>Collaboration</strong></p>
     <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -57,5 +62,3 @@
         <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     </div>
 <div>
-
-
