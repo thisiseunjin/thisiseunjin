@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=THISISEUNJIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가치창출을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hara0822)](https://solved.ac/hara0822)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hara0822)](https://solved.ac/hara0822)
 
 ## 🛠 Stacks 🛠
 
