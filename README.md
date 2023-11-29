@@ -64,7 +64,7 @@
 <div>
 
 <h2 align="center">🏃‍♀️ Activities </h2>
-  <br>
+  <br align="center">
   
   |Organization|Activity|Position|Achieve|Date|
   |:---:|:---:|:---:|:---:|:---:|
