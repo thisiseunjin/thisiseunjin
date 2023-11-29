@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=THISISEUNJIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가치창출을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hara0822)](https://solved.ac/hara0822)
+<div>
+<span>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hara0822">
+</span>
+<span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiseunjin&layout=compact">
+</span>
+</div>
 
 ## 🛠 Stacks 🛠
 
@@ -51,9 +58,4 @@
     </div>
 <div>
 
-<div>
-    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiseunjin&layout=compact"></span>
-<span>
-    <img src="https://github-readme-stats.vercel.app/api?username=thisiseunjin&show_icons=true">
-</span>
-<div>
+
