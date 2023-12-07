@@ -1,10 +1,10 @@
 <div align="center">
     <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=THISISEUNJIN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=가치창출을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62"/>
 </div>
-
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiseunjin&theme=transparent"/>
 <span>
+    <p><strong>알고리즘-백준</strong></p>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hara0822">
 </span>
 <span>
