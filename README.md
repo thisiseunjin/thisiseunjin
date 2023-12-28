@@ -71,11 +71,12 @@
 
 | Organization |                Activity                |               Position                | Achieve | Date |
 | :----------: | :------------------------------------: | :-----------------------------------: | :-----: | :--: |
+|  SSAFY 10기   |          -            | 실습코치 |  참여 중  | 2024 |
 |  SSAFY 9기   |            근카가카(우수상)            | Front-end<br/>back-end<br/>Infra, DBA |  참여   | 2023 |
 |  SSAFY 9기   |                 내쉬다                 |         Leader,DBA, Back-end          |  참여   | 2023 |
 |  SSAFY 9기   |                 WEFFY                  |         Leader,<br/>Front-end         |  참여   | 2023 |
 |  SSAFY 9기   |           Enjoy Trip(우수상)           |         Leader, DBA, Back-end         |  참여   | 2023 |
-|  SSAFY 9기   |     SAMSUNG SW ACADEMY FOR YOURTH      |               지역 대표               | 참여 중 | 2023 |
+|  SSAFY 9기   |     SAMSUNG SW ACADEMY FOR YOURTH      |               지역 대표               | 참여 | 2023 |
 |   삼성SDS    | 삼성SDS 2022 하계 대학생 알고리즘 특강 |                   -                   |  참여   | 2022 |
 |  영남대학교  |           소통하는 주거환경            |         Leader, DBA, Back-end         |  참여   | 2021 |
 |  영남대학교  |            뭐먹냠 혼자먹냠             |         Leader, DBA, Back-end         |  참여   | 2020 |
