@@ -71,7 +71,8 @@
 
 | Organization |                Activity                |               Position                | Achieve | Date |
 | :----------: | :------------------------------------: | :-----------------------------------: | :-----: | :--: |
-|  SSAFY 10기   |          -            | 실습코치 |  참여 중  | 2024 |
+|  SSAFY 11기   |          -            | 서울 실습코치 |  참여 중  | 2024 |
+|  SSAFY 10기   |          -            | 구미 실습코치 |  참여  | 2024 |
 |  SSAFY 9기   |            근카가카(우수상)            | Front-end<br/>back-end<br/>Infra, DBA |  참여   | 2023 |
 |  SSAFY 9기   |                 내쉬다                 |         Leader,DBA, Back-end          |  참여   | 2023 |
 |  SSAFY 9기   |                 WEFFY                  |         Leader,<br/>Front-end         |  참여   | 2023 |
