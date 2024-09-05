@@ -1,5 +1,5 @@
 <div align="center">
-    <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=사용자를%20먼저&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SW를%20통해%20불편을%20해소하는%20것을%20목표로하는%20개발자%20서은진입니다!&descAlignY=51&descAlign=62"/>
+    <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=사용자를%20먼저&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SW를%20통해%20불편을%20해소하는%20것을%20목표로하는%20개발자입니다!&descAlignY=51&descAlign=62"/>
 </div>
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigajjini&theme=transparent"/>
