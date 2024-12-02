@@ -1,5 +1,5 @@
 <div align="center">
-    <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=사용자를%20먼저&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SW를%20통해%20불편을%20해소하는%20것을%20목표로하는%20개발자입니다!&descAlignY=51&descAlign=62"/>
+    <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SW를%20통해%20불편을%20해소하는%20것을%20목표로하는%20개발자입니다!&descAlignY=51&descAlign=62"/>
 </div>
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiseunjin&theme=transparent"/>
@@ -72,7 +72,7 @@
 | Organization |                Activity                |               Position                | Achieve | Date |
 | :----------: | :------------------------------------: | :-----------------------------------: | :-----: | :--: |
 |  들꽃지기   |          생활 안전 서비스            | Infra, back-end |  참여 중  | 2024 |
-|  SSAFY 11기   |          -            | 서울 실습코치 |  참여 중  | 2024 |
+|  SSAFY 11기   |          -            | 서울 실습코치 |  참여  | 2024 |
 |  SSAFY 10기   |          -            | 구미 실습코치 |  참여  | 2024 |
 |  SSAFY 9기   |            근카가카(우수상)            | Front-end<br/>back-end<br/>Infra, DBA |  참여   | 2023 |
 |  SSAFY 9기   |                 내쉬다                 |         Leader,DBA, Back-end          |  참여   | 2023 |
