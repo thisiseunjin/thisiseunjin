@@ -71,10 +71,10 @@
 
 | Organization |                Activity                |               Position                | Achieve | Date |
 | :----------: | :------------------------------------: | :-----------------------------------: | :-----: | :--: |
-|  들꽃지기   |          생활 안전 서비스            | Infra, back-end |  참여 중  | 2024 |
+|  들꽃지기   |          [생활 안전 서비스](https://github.com/wildflower-keeper/backend)            | Infra, back-end |  참여 중  | 2024 |
 |  SSAFY 11기   |          -            | 서울 실습코치 |  참여  | 2024 |
 |  SSAFY 10기   |          -            | 구미 실습코치 |  참여  | 2024 |
-|  SSAFY 9기   |            근카가카(우수상)            | Front-end<br/>back-end<br/>Infra, DBA |  참여   | 2023 |
+|  SSAFY 9기   |            [근카가카(우수상)](https://github.com/sudurubackback)            | Front-end<br/>back-end<br/>Infra, DBA |  참여   | 2023 |
 |  SSAFY 9기   |                 내쉬다                 |         Leader,DBA, Back-end          |  참여   | 2023 |
 |  SSAFY 9기   |                 WEFFY                  |         Leader,<br/>Front-end         |  참여   | 2023 |
 |  SSAFY 9기   |           Enjoy Trip(우수상)           |         Leader, DBA, Back-end         |  참여   | 2023 |
