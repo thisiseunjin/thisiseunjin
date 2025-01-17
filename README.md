@@ -1,5 +1,5 @@
 <div align="center">
-    <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=welcome everyone!!&descAlignY=51&descAlign=62"/>
+    <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20eunjin!&section=header&textBg=false"/>
 </div>
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiseunjin&theme=transparent"/>
