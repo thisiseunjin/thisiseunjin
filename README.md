@@ -2,12 +2,13 @@
     <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I'm%20eunjin!&section=header&textBg=false"/>
 </div>
 
-## 🌟Introduce About Me!
-**안녕하세요, 백엔드 개발자 서은진입니다.<br/>**
-🧡 코더가 아닌 개발자가 되기 위해 노력하고 있습니다. <br/>
+<div align="center">
+<h2> 🌟Introduce About Me </h2>
+<h4>안녕하세요, 일당백의 개발자 서은진입니다.</h4>
+🧡 코더가 아닌 프로그래머가 되기 위해 노력하고 있습니다. <br/>
 ❤️ 도전하지 않으면 변하는 것은 없다를 신조로 도전을 통해 성장합니다. <br/>
 💚 동료들과 함께 즐겁게 일할 수 있는 환경을 만들고자 합니다. <br/>
-    
+</div>
 <div align="center">
     <img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisiseunjin&theme=transparent"/>
 <span>
