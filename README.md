@@ -88,7 +88,7 @@
 |  SSAFY 9기   |           Enjoy Trip(우수상)           |         Leader, DBA, Back-end         |  참여   | 2023 |
 |  SSAFY 9기   |     SAMSUNG SW ACADEMY FOR YOURTH      |               지역 대표               | 참여 | 2023 |
 |   삼성SDS    | 삼성SDS 2022 하계 대학생 알고리즘 특강 |                   -                   |  참여   | 2022 |
-|  대학교  |           소통하는 주거환경            |         Leader, DBA, Back-end         |  참여   | 2021 |
+|  대학교  |           [소통하는 주거환경])(https://github.com/thisiseunjin/happyHome)            |         Leader, DBA, Back-end         |  참여   | 2021 |
 |  대학교  |            뭐먹냠 혼자먹냠             |         Leader, DBA, Back-end         |  참여   | 2020 |
 
 </div>
